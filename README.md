@@ -8,7 +8,6 @@ A WordPress plugin that generates a `sitemap.xml` file when requested from the a
 - [Installation](#installation)
 - [Usage](#usage)
 - [Requirements](#requirements)
-- [Screenshots](#screenshots)
 - [Changelog](#changelog)
 - [Contributing](#contributing)
 - [License](#license)
@@ -62,19 +61,7 @@ A WordPress plugin that generates a `sitemap.xml` file when requested from the a
 - WordPress version 4.0 or higher.
 - PHP version 5.6 or higher.
 
-## Screenshots
 
-### 1. Sitemap Generator Menu Item
-
-![Menu Item](https://user-images.githubusercontent.com/yourusername/menu-item.png)
-
-### 2. Sitemap Generator Admin Page
-
-![Admin Page](https://user-images.githubusercontent.com/yourusername/admin-page.png)
-
-### 3. Success Message
-
-![Success Message](https://user-images.githubusercontent.com/yourusername/success-message.png)
 
 ## Changelog
 
