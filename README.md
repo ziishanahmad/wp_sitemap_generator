@@ -97,4 +97,5 @@ This plugin is licensed under the [GPL2 License](https://www.gnu.org/licenses/gp
 - [GitHub](https://github.com/ziishanahmad)
 - [Website](https://ziishan.com)
 - [Email](mailto:ziishanahmad@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/ziishanahmad/)
 
